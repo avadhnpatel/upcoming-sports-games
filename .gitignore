@@ -311,6 +311,5 @@ poetry.toml
 pyrightconfig.json
 
 *.mp4
-*.svg
 .DS_Store
 # End of https://www.toptal.com/developers/gitignore/api/python,node
