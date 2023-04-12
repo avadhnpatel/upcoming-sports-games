@@ -5,6 +5,6 @@ We text you every morning about your favorite teams sports games in the NBA, NFL
 Here is the Link:
 https://upcomingsportsgames.netlify.app/
 
-Backend: Render
-Automation: AWS EC2 Cron
+Backend: Render,
+Automation: AWS EC2 Cron,
 Frontend: Netlify
